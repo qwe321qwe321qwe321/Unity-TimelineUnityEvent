@@ -20,6 +20,6 @@ Select clip and set UnityEvent.
 
 ![create track](screenshot1.png)
 
-The binding script is bind on director object.
+The binding script is bound on director.
 
 ![create track](screenshot2.png)
