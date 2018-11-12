@@ -2,10 +2,11 @@
 Using UnityEvent to execute arbitrary code from Unity timelines.
 
 Inspiration reference: https://github.com/georgejecook/UnityTimelineEvents
+
 I replace the former methods with UnityEvent.
-Bind UnityEvent and TimelineClip on custom script to store UnityEvent. 
-Just like PlayeableDirector binding object.
-So it can even work on same scene, same timeline but different director.
+I bind UnityEvent and TimelineClip on custom script to store UnityEvent just like PlayableDirector do.
+
+It can even work on same scene, same timeline but different director.
 
 # Usage
 Create TimelineUnityEventTrack in Timeline
